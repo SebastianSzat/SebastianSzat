@@ -27,6 +27,9 @@ Oracle 12c OCA(Oracle) · RedHat RHCSA(RedHat) · PostgreSQL Essentials(LinkedIn
 Scripts and tools that helped my day-to-day work as a DBA and database developer — 
 alertlog parsing, bulk TNS management, user provisioning, and similar utilities.
 
+A lot of my work over the years is locked behind NDAs, so I can't share it here. 
+Instead, I’m busy crafting new public-facing projects and giving my non-proprietary code a well-deserved 'glow-up' for my portfolio.
+
 ## Currently
 
 Based in Budapest. Hoping to move back to New Zealand.
