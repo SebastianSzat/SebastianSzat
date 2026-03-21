@@ -37,10 +37,16 @@ Based in Budapest. Hoping to move back to New Zealand.
 
 
 
-General License & Disclaimer
+## General License & Disclaimer
+
 Hey there! 👋 Everything in this repository is shared here because I genuinely enjoy contributing to the community. Feel free to use any part — or all — of these scripts in your own projects.
+
 That said, please keep in mind: all code is provided as-is, with absolutely no warranties or guarantees of any kind. I'm not responsible for anything that happens as a result of using these scripts. Use them at your own risk — whether you're borrowing a snippet or running the whole thing.
+
 Some scripts include their own, more detailed End User License Agreement (EULA) — if so, that EULA takes precedence for that specific script. Please give it a quick read before using those.
+
 One thing that applies across the board: none of the code in this repository may be used for commercial or monetization purposes without explicit written permission from me.
+
 And lastly — it's not required, but it always makes my day when someone gives a shout-out or a mention if they find something useful here. A little credit goes a long way! 🙏
+
 Happy coding!
